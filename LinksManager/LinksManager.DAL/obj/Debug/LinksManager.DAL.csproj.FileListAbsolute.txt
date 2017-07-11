@@ -1,0 +1,10 @@
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\bin\Debug\LinksManager.DAL.dll.config
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\bin\Debug\LinksManager.DAL.dll
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\bin\Debug\LinksManager.DAL.pdb
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\bin\Debug\EntityFramework.dll
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\bin\Debug\EntityFramework.xml
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\obj\Debug\LinksManager.DAL.dll
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\obj\Debug\LinksManager.DAL.pdb
+E:\EPAM\WebApiTask\WebApiTask\LinksManager\LinksManager.DAL\obj\Debug\LinksManager.DAL.csprojResolveAssemblyReference.cache
